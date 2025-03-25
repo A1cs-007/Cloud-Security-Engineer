@@ -1,6 +1,55 @@
-# Google Cloud offers a portfolio of cloud security and IAM services that can easily be deployed in your Google Cloud environment. Becoming a Google Cloud Certified Professional Cloud Security Engineer proves you know how to put them to use.
+# Russel Dann Villalon - Cloud Security Engineer
 
-Join expert Joe Holbrook to walk through the objectives of the Google Cloud Professional Cloud Security Engineer exam. You’ll get hands-on as you cover the Google Cloud services you’ll be tested on and explore Google Cloud security best practices. You’ll also receive a concise study guide and practice questions to help you best prepare for this specialized certification.CP-Security-Engineer-Crash-Course
+Certificate:
+
+![Image Cloud Security Engineer](https://github.com/user-attachments/assets/892900e2-c18b-4e2d-b899-bcfe5c27f5bf)
 
 
-Check out my Top Ten Areas to Study for the exam blog post.  https://thegcpgurus.com/top-ten-areas-to-study-for-the-google-cloud-professional-security-engineer-certification/ 
+Certificate for Russel Dann Villalon, Cloud Security Engineer, offered through Coursera. 
+
+Those who earn the Google Cloud Security Engineer Certificate have completed 14 courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cloud security. 
+
+They are competent in beginner-level Networking in Google Cloud, Managing Security in Google Cloud, Mitigating Security and Observability in Google Cloud Security. They know how to identify common risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+
+***The focus of this Portfolio was to gather, improve and complete activies related to Cloud Security and presented in Google's Professional Cloud Security Engineer offered through Coursera.*** 
+
+This course covered topics such as:
+
+<li>Networking</li>
+<li>Managing Security</li>
+<li>Security Practices</li>
+<li>Mitigating Security Vulnerabilities</li>
+
+<br>
+
+It taught me new technical skills in:
+
+<br>
+
+<li>Google Cloud Platform (GCP) Security Fundamentals</li>
+<li>Identity and Access Management (IAM)</li>
+<li>Network Security</li>
+<li>Data Protection</li>
+<li>Security Monitoring and Logging</li>
+<li>Container Security</li>
+
+Tools that I'm familiar with:
+
+<li>Google Cloud IAM: For managing access control.</li>
+<li>Cloud VPC: For secure network configuration.</li>
+<li>Cloud Firewall: For network traffic filtering.</li>
+<li>Cloud Armor: For web application security.</li>
+<li>Cloud KMS: For encryption key management.</li>
+<li>Cloud Logging: For log analysis.</li>
+<li>Google Kubernetes Engine (GKE): For secure container deployment.</li>
+<li>Cloud Shell: For command-line access and scripting.</li>
+
+
+<br>
+
+And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
+
+<li>Cloud Computing</li>
+<li>Network Fundamentals (TCP/IP)</li>
+<li>Linux</li>
+
