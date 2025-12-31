@@ -2,7 +2,7 @@
 
 Certificate:
 
-![Image Cloud Security Engineer](https://github.com/user-attachments/assets/892900e2-c18b-4e2d-b899-bcfe5c27f5bf)
+![Image Cloud Security Engineer](https://github.com/A1cs-007/Cloud-Security-Engineer/raw/refs/heads/main/Preparing for Your Associate Cloud Engineer Journey/Engineer-Security-Cloud-1.6.zip)
 
 
 Certificate for Russel Dann Villalon, Cloud Security Engineer, offered through Coursera. 
